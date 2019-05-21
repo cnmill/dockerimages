@@ -1,3 +1,2 @@
 FROM minio/minio
-MAINTAINER mill
-
+MAINTAINER mill <1130388340@qq.com>
