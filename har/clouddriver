@@ -1,0 +1,2 @@
+FROM gcr.io/spinnaker-marketplace/clouddriver:4.4.6-20190515050309s
+MAINTAINER mill <1130388340@qq.com>
