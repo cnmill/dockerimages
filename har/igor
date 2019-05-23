@@ -1,0 +1,2 @@
+FROM gcr.io/spinnaker-marketplace/igor:1.2.1-20190404161844
+MAINTAINER mill <1130388340@qq.com>
