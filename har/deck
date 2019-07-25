@@ -1,2 +1,0 @@
-FROM gcr.io/spinnaker-marketplace/deck:2.8.6-20190515185824
-MAINTAINER mill <1130388340@qq.com>

@@ -1,2 +1,0 @@
-FROM gcr.io/kubernetes-spinnaker/redis-cluster:v2
-MAINTAINER mill <1130388340@qq.com>
