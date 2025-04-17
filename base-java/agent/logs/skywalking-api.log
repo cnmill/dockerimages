@@ -1,0 +1,344 @@
+INFO 2022-09-20 16:15:47:059 main AgentClassLoader : /app/agent/plugins/apm-activemq-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:060 main AgentClassLoader : /app/agent/plugins/apm-armeria-0.84.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:060 main AgentClassLoader : /app/agent/plugins/apm-armeria-0.85.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:060 main AgentClassLoader : /app/agent/plugins/apm-asynchttpclient-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:061 main AgentClassLoader : /app/agent/plugins/apm-avro-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:061 main AgentClassLoader : /app/agent/plugins/apm-canal-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:061 main AgentClassLoader : /app/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:062 main AgentClassLoader : /app/agent/plugins/apm-cxf-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:062 main AgentClassLoader : /app/agent/plugins/apm-dubbo-2.7.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:062 main AgentClassLoader : /app/agent/plugins/apm-dubbo-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:062 main AgentClassLoader : /app/agent/plugins/apm-ehcache-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:063 main AgentClassLoader : /app/agent/plugins/apm-elastic-job-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:063 main AgentClassLoader : /app/agent/plugins/apm-elastic-job-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:063 main AgentClassLoader : /app/agent/plugins/apm-elasticsearch-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:064 main AgentClassLoader : /app/agent/plugins/apm-elasticsearch-6.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:064 main AgentClassLoader : /app/agent/plugins/apm-feign-default-http-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:064 main AgentClassLoader : /app/agent/plugins/apm-finagle-6.25.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:064 main AgentClassLoader : /app/agent/plugins/apm-grpc-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:065 main AgentClassLoader : /app/agent/plugins/apm-h2-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:065 main AgentClassLoader : /app/agent/plugins/apm-hbase-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:065 main AgentClassLoader : /app/agent/plugins/apm-httpClient-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:066 main AgentClassLoader : /app/agent/plugins/apm-httpasyncclient-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:066 main AgentClassLoader : /app/agent/plugins/apm-httpclient-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:066 main AgentClassLoader : /app/agent/plugins/apm-httpclient-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:066 main AgentClassLoader : /app/agent/plugins/apm-hystrix-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:067 main AgentClassLoader : /app/agent/plugins/apm-influxdb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:067 main AgentClassLoader : /app/agent/plugins/apm-jdbc-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:067 main AgentClassLoader : /app/agent/plugins/apm-jedis-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:068 main AgentClassLoader : /app/agent/plugins/apm-jetty-client-9.0-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:068 main AgentClassLoader : /app/agent/plugins/apm-jetty-client-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:068 main AgentClassLoader : /app/agent/plugins/apm-jetty-server-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:069 main AgentClassLoader : /app/agent/plugins/apm-kafka-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:069 main AgentClassLoader : /app/agent/plugins/apm-kafka-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:069 main AgentClassLoader : /app/agent/plugins/apm-lettuce-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:069 main AgentClassLoader : /app/agent/plugins/apm-light4j-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:070 main AgentClassLoader : /app/agent/plugins/apm-mariadb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:070 main AgentClassLoader : /app/agent/plugins/apm-mongodb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:070 main AgentClassLoader : /app/agent/plugins/apm-mongodb-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:071 main AgentClassLoader : /app/agent/plugins/apm-mongodb-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:071 main AgentClassLoader : /app/agent/plugins/apm-mssql-jdbc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:071 main AgentClassLoader : /app/agent/plugins/apm-mssql-jtds-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:071 main AgentClassLoader : /app/agent/plugins/apm-mysql-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:072 main AgentClassLoader : /app/agent/plugins/apm-mysql-6.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:072 main AgentClassLoader : /app/agent/plugins/apm-mysql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:072 main AgentClassLoader : /app/agent/plugins/apm-mysql-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:073 main AgentClassLoader : /app/agent/plugins/apm-netty-socketio-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:073 main AgentClassLoader : /app/agent/plugins/apm-nutz-http-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:073 main AgentClassLoader : /app/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:074 main AgentClassLoader : /app/agent/plugins/apm-okhttp-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:074 main AgentClassLoader : /app/agent/plugins/apm-play-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:074 main AgentClassLoader : /app/agent/plugins/apm-postgresql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:075 main AgentClassLoader : /app/agent/plugins/apm-pulsar-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:075 main AgentClassLoader : /app/agent/plugins/apm-quasar-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:075 main AgentClassLoader : /app/agent/plugins/apm-rabbitmq-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:075 main AgentClassLoader : /app/agent/plugins/apm-redisson-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:076 main AgentClassLoader : /app/agent/plugins/apm-resttemplate-4.3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:076 main AgentClassLoader : /app/agent/plugins/apm-rocketmq-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:076 main AgentClassLoader : /app/agent/plugins/apm-rocketmq-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:077 main AgentClassLoader : /app/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:077 main AgentClassLoader : /app/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:077 main AgentClassLoader : /app/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:078 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:078 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:078 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:079 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:079 main AgentClassLoader : /app/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:079 main AgentClassLoader : /app/agent/plugins/apm-solrj-7.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:079 main AgentClassLoader : /app/agent/plugins/apm-spring-async-annotation-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:080 main AgentClassLoader : /app/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:080 main AgentClassLoader : /app/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:080 main AgentClassLoader : /app/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:081 main AgentClassLoader : /app/agent/plugins/apm-spring-core-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:081 main AgentClassLoader : /app/agent/plugins/apm-spring-kafka-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:082 main AgentClassLoader : /app/agent/plugins/apm-spring-kafka-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:082 main AgentClassLoader : /app/agent/plugins/apm-spring-scheduled-annotation-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:082 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:082 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:083 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:083 main AgentClassLoader : /app/agent/plugins/apm-struts2-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:083 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:084 main AgentClassLoader : /app/agent/plugins/apm-spymemcached-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:084 main AgentClassLoader : /app/agent/plugins/apm-undertow-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:084 main AgentClassLoader : /app/agent/plugins/apm-vertx-core-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:085 main AgentClassLoader : /app/agent/plugins/apm-xmemcached-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:085 main AgentClassLoader : /app/agent/plugins/apm-xxl-job-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:085 main AgentClassLoader : /app/agent/plugins/baidu-brpc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:085 main AgentClassLoader : /app/agent/plugins/dbcp-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:086 main AgentClassLoader : /app/agent/plugins/dubbo-2.7.x-conflict-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:086 main AgentClassLoader : /app/agent/plugins/dubbo-conflict-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:086 main AgentClassLoader : /app/agent/plugins/graphql-12.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:087 main AgentClassLoader : /app/agent/plugins/graphql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:087 main AgentClassLoader : /app/agent/plugins/graphql-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:087 main AgentClassLoader : /app/agent/plugins/motan-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:087 main AgentClassLoader : /app/agent/plugins/resteasy-server-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:088 main AgentClassLoader : /app/agent/plugins/sofa-rpc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:088 main AgentClassLoader : /app/agent/plugins/spring-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:088 main AgentClassLoader : /app/agent/plugins/spring-webflux-5.x-webclient-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:089 main AgentClassLoader : /app/agent/plugins/thrift-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:089 main AgentClassLoader : /app/agent/plugins/tomcat-7.x-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:089 main AgentClassLoader : /app/agent/activations/apm-toolkit-kafka-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:090 main AgentClassLoader : /app/agent/activations/apm-toolkit-log4j-1.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:090 main AgentClassLoader : /app/agent/activations/apm-toolkit-log4j-2.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:090 main AgentClassLoader : /app/agent/activations/apm-toolkit-logback-1.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:091 main AgentClassLoader : /app/agent/activations/apm-toolkit-meter-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:091 main AgentClassLoader : /app/agent/activations/apm-toolkit-opentracing-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:091 main AgentClassLoader : /app/agent/activations/apm-toolkit-trace-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:47:098 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-activemq-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:098 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-armeria-0.84.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:099 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-armeria-0.85.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:099 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-asynchttpclient-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:099 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-avro-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:099 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-canal-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:100 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:100 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-cxf-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:100 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-dubbo-2.7.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:101 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-dubbo-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:101 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-ehcache-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:101 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-elastic-job-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:101 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-elastic-job-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:102 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-elasticsearch-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:102 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-elasticsearch-6.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:102 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-feign-default-http-9.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:102 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-finagle-6.25.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:103 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-grpc-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:103 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-h2-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:103 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-hbase-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:104 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-httpClient-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:104 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-httpasyncclient-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:104 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-httpclient-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:104 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-hystrix-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:105 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-influxdb-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:105 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-jedis-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:105 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-jetty-client-9.0-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:105 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-jetty-client-9.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:106 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-jetty-server-9.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:106 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-kafka-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:106 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-lettuce-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:106 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-light4j-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:107 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mariadb-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:107 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mongodb-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:107 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mongodb-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:107 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mongodb-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:108 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mssql-jdbc-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:108 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mssql-jtds-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:108 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mysql-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:108 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mysql-6.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:109 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-mysql-8.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:109 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-netty-socketio-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:109 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-nutz-http-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:109 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:110 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-okhttp-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:110 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-play-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:111 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-postgresql-8.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:111 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-pulsar-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:111 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-quasar-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:111 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-rabbitmq-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:112 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-redisson-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:112 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-resttemplate-4.3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:112 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-rocketmq-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:112 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-rocketmq-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:113 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:113 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:113 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:113 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-sharding-sphere-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:114 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:114 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-sharding-sphere-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:114 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:114 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:115 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-solrj-7.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:115 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-async-annotation-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:115 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:115 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:116 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:116 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-core-patch-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:116 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-kafka-1.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:116 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-kafka-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:117 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spring-scheduled-annotation-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:117 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:117 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:117 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:118 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-struts2-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:118 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-springmvc-annotation-commons-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:118 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-spymemcached-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:118 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-undertow-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:119 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-vertx-core-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:119 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-xmemcached-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:119 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/apm-xxl-job-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:119 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/baidu-brpc-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:120 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/dbcp-2.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:120 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/dubbo-2.7.x-conflict-patch-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:120 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/dubbo-conflict-patch-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:120 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/graphql-12.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:121 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/graphql-8.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:121 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/graphql-9.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:121 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/motan-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:122 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/resteasy-server-3.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:122 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/sofa-rpc-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:122 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/spring-webflux-5.x-webclient-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:122 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/thrift-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:123 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/plugins/tomcat-7.x-8.x-plugin-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:123 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-kafka-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:123 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-log4j-1.x-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:123 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-log4j-2.x-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:124 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-logback-1.x-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:124 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-meter-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:124 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-opentracing-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:47:124 main PluginResourcesResolver : find skywalking plugin define in jar:file:/app/agent/activations/apm-toolkit-trace-activation-8.3.0.jar!/skywalking-plugin.def 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-activemq-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-armeria-0.84.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-armeria-0.85.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-asynchttpclient-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-avro-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:309 main AgentClassLoader : /app/agent/plugins/apm-canal-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-cxf-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-dubbo-2.7.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-dubbo-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-ehcache-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-elastic-job-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-elastic-job-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-elasticsearch-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:310 main AgentClassLoader : /app/agent/plugins/apm-elasticsearch-6.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-feign-default-http-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-finagle-6.25.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-grpc-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-h2-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-hbase-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-httpClient-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-httpasyncclient-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-httpclient-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-httpclient-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:311 main AgentClassLoader : /app/agent/plugins/apm-hystrix-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-influxdb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-jdbc-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-jedis-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-jetty-client-9.0-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-jetty-client-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-jetty-server-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-kafka-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-kafka-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-lettuce-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:312 main AgentClassLoader : /app/agent/plugins/apm-light4j-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mariadb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mongodb-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mongodb-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mongodb-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mssql-jdbc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mssql-jtds-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mysql-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mysql-6.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mysql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:313 main AgentClassLoader : /app/agent/plugins/apm-mysql-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-netty-socketio-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-nutz-http-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-okhttp-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-play-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-postgresql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-pulsar-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-quasar-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:314 main AgentClassLoader : /app/agent/plugins/apm-rabbitmq-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-redisson-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-resttemplate-4.3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-rocketmq-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-rocketmq-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:315 main AgentClassLoader : /app/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-solrj-7.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-async-annotation-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-core-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-kafka-1.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-kafka-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-spring-scheduled-annotation-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:316 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-struts2-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-springmvc-annotation-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-spymemcached-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-undertow-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-vertx-core-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-xmemcached-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/apm-xxl-job-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/baidu-brpc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/dbcp-2.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/dubbo-2.7.x-conflict-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/dubbo-conflict-patch-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:317 main AgentClassLoader : /app/agent/plugins/graphql-12.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/graphql-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/graphql-9.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/motan-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/resteasy-server-3.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/sofa-rpc-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/spring-commons-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/spring-webflux-5.x-webclient-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/thrift-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/plugins/tomcat-7.x-8.x-plugin-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/activations/apm-toolkit-kafka-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/activations/apm-toolkit-log4j-1.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:318 main AgentClassLoader : /app/agent/activations/apm-toolkit-log4j-2.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:319 main AgentClassLoader : /app/agent/activations/apm-toolkit-logback-1.x-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:319 main AgentClassLoader : /app/agent/activations/apm-toolkit-meter-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:319 main AgentClassLoader : /app/agent/activations/apm-toolkit-opentracing-activation-8.3.0.jar loaded. 
+INFO 2022-09-20 16:15:55:319 main AgentClassLoader : /app/agent/activations/apm-toolkit-trace-activation-8.3.0.jar loaded. 
+WARN 2022-09-20 16:15:59:826 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.DemoController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:827 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.DemoController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:839 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.DemoController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:15:59:854 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageRequestLogController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:854 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageRequestLogController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:854 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageRequestLogController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:15:59:864 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsRecordController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:864 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsRecordController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:864 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsRecordController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:15:59:874 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsTmplController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:874 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsTmplController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:874 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsTmplController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:15:59:893 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:893 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:893 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.MessageController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:15:59:907 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsSignatureController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:907 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsSignatureController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:15:59:907 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.foundation.message.web.controller.SmsSignatureController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:16:00:099 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.framework.api.monitor.MonitorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:16:00:099 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.framework.api.monitor.MonitorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:16:00:099 main AbstractClassEnhancePluginDefine : enhance class com.ywwl.framework.api.monitor.MonitorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:16:01:254 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2022-09-20 16:16:01:254 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:16:01:254 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:16:01:254 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2022-09-20 16:16:09:148 main AbstractClassEnhancePluginDefine : enhance class com.mysql.jdbc.Driver by plugin org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.DriverInstrumentation is not working. Because witness class com.mysql.cj.api.MysqlConnection is not existed. 
+WARN 2022-09-20 16:16:09:155 main AbstractClassEnhancePluginDefine : enhance class com.mysql.jdbc.NonRegisteringDriver by plugin org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.DriverInstrumentation is not working. Because witness class com.mysql.cj.api.MysqlConnection is not existed. 
+WARN 2022-09-20 16:16:18:093 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2022-09-20 16:16:18:093 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2022-09-20 16:16:18:106 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2022-09-20 16:16:18:106 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
